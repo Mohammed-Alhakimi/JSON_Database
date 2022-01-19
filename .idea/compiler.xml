@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="JSON_Database.JSON_Database-task-build-classes-java.main" target="11" />
+      <module name="JSON_Database.JSON_Database-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="JSON_Database.JSON_Database-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="JSON_Database.JSON_Database-task-build-reports-tests.main" target="11" />
+      <module name="JSON_Database.JSON_Database-task-build-test-results.main" target="11" />
+      <module name="JSON_Database.JSON_Database-task-build-tmp.main" target="11" />
+      <module name="JSON_Database.JSON_Database-task.main" target="11" />
+      <module name="JSON_Database.Topics-Array_exceptions-Calculate_Square.main" target="11" />
+      <module name="JSON_Database.Topics-Array_exceptions-Explore_the_standard_class_library.main" target="11" />
+      <module name="JSON_Database.Topics-Array_exceptions-Out_of_bounds_.main" target="11" />
+      <module name="JSON_Database.Topics-Array_exceptions-Theory.main" target="11" />
+      <module name="JSON_Database.Topics-Custom_exceptions-Checked_exception_with_constructor.main" target="11" />
+      <module name="JSON_Database.Topics-Custom_exceptions-Custom_exceptions_features.main" target="11" />
+      <module name="JSON_Database.Topics-Custom_exceptions-Square_class.main" target="11" />
+      <module name="JSON_Database.Topics-Custom_exceptions-Theory.main" target="11" />
+      <module name="JSON_Database.Topics-Custom_threads-Message_notifier_as_a_thread.main" target="11" />
+      <module name="JSON_Database.Topics-Custom_threads-Multiple_threads.main" target="11" />
+      <module name="JSON_Database.Topics-Custom_threads-Numbers_filter.main" target="11" />
+      <module name="JSON_Database.Topics-Custom_threads-Possible_order_of_the_output_strings.main" target="11" />
+      <module name="JSON_Database.Topics-Custom_threads-Starting_runnables.main" target="11" />
+      <module name="JSON_Database.Topics-Custom_threads-Starting_threads.main" target="11" />
+      <module name="JSON_Database.Topics-Custom_threads-Statements_about_starting_threads.main" target="11" />
+      <module name="JSON_Database.Topics-Custom_threads-String_processor.main" target="11" />
+      <module name="JSON_Database.Topics-Custom_threads-Theory.main" target="11" />
+      <module name="JSON_Database.Topics-Executors-Asynchronous_email_sending.main" target="11" />
+      <module name="JSON_Database.Topics-Executors-Check_whether_a_number_is_prime.main" target="11" />
+      <module name="JSON_Database.Topics-Executors-Messaging.main" target="11" />
+      <module name="JSON_Database.Topics-Executors-Theory.main" target="11" />
+      <module name="JSON_Database.Topics-LocalDate-Convert_numbers_to_days.main" target="11" />
+      <module name="JSON_Database.Topics-LocalDate-Print_dates_of_a_year_with_an_offset.main" target="11" />
+      <module name="JSON_Database.Topics-LocalDate-Theory.main" target="11" />
+      <module name="JSON_Database.Topics-Thread_management-Calculate_the_number_of_distinct_characters.main" target="11" />
+      <module name="JSON_Database.Topics-Thread_management-Ordering_the_execution_of_threads.main" target="11" />
+      <module name="JSON_Database.Topics-Thread_management-Summing_with_threads.main" target="11" />
+      <module name="JSON_Database.Topics-Thread_management-Theory.main" target="11" />
+      <module name="JSON_Database.Topics-Thread_management-VeganPizza.main" target="11" />
+      <module name="JSON_Database.Topics-Thread_management-Waiting_for_a_thread.main" target="11" />
+      <module name="JSON_Database.Topics-Thread_synchronization-Counting_number_of_instances.main" target="11" />
+      <module name="JSON_Database.Topics-Thread_synchronization-Initialize_fields_only_once.main" target="11" />
+      <module name="JSON_Database.Topics-Thread_synchronization-Possible_outputs.main" target="11" />
+      <module name="JSON_Database.Topics-Thread_synchronization-Synchronized_keyword.main" target="11" />
+      <module name="JSON_Database.Topics-Thread_synchronization-Theory.main" target="11" />
+      <module name="JSON_Database.Topics-Thread_synchronization-Thread-safe_account.main" target="11" />
+      <module name="JSON_Database.Topics-Thread_synchronization-Thread_synchronization_in_Java.main" target="11" />
+      <module name="JSON_Database.Topics-Thread_synchronization-Threads_executing_methods.main" target="11" />
+      <module name="JSON_Database.Topics-Thread_synchronization-Two_methods,_two_statements.main" target="11" />
+      <module name="JSON_Database.Topics-Thread_synchronization-What_is_wrong.main" target="11" />
+      <module name="JSON_Database.Topics-Threads_as_objects-Counting_threads.main" target="11" />
+      <module name="JSON_Database.Topics-Threads_as_objects-Getting_current_thread_info.main" target="11" />
+      <module name="JSON_Database.Topics-Threads_as_objects-Is_thread_daemon.main" target="11" />
+      <module name="JSON_Database.Topics-Threads_as_objects-Theory.main" target="11" />
+      <module name="JSON_Database.Topics-Threads_as_objects-Thread_name.main" target="11" />
+      <module name="JSON_Database.Topics-Throwing_exceptions-Days_of_the_week.main" target="11" />
+      <module name="JSON_Database.Topics-Throwing_exceptions-The_root_of_a_number.main" target="11" />
+      <module name="JSON_Database.Topics-Throwing_exceptions-Theory.main" target="11" />
+      <module name="JSON_Database.Topics-Throwing_exceptions-Throw_a_checked_exception.main" target="11" />
+      <module name="JSON_Database.Topics-Throwing_exceptions-Throw_an_IOException.main" target="11" />
+      <module name="JSON_Database.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

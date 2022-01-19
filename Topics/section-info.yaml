@@ -1,0 +1,10 @@
+content:
+- Throwing exceptions
+- Array exceptions
+- Custom exceptions
+- Threads as objects
+- Custom threads
+- Thread management
+- LocalDate
+- Thread synchronization
+- Executors
